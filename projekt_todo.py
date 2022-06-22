@@ -1,6 +1,8 @@
 import tkinter
 import tkinter.messagebox
 
+#proste GUI przy uzyciu tkinter 
+
 def add(): #dodawanie
     get_task = input_task.get()
     if get_task != "":
